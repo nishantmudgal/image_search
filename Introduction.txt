@@ -1,0 +1,2 @@
+This is an application use to search images. It uses "Unsplash" library to fetch images.
+The images are organised in Google Images like structure.
